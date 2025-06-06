@@ -6,6 +6,13 @@
 
 An AI-driven chatbot to assist citizens with tax inquiries, provide accurate information from a knowledge base, and facilitate appointment bookings for audits and inquiries efficiently.
 
+<img width="519" alt="Screen Shot 2025-06-06 at 9 03 13 PM" src="https://github.com/user-attachments/assets/96985648-c43b-4177-af53-9f2296c1502a" />
+
+
+<img width="806" alt="Screen Shot 2025-06-06 at 9 02 23 PM" src="https://github.com/user-attachments/assets/cd44476f-ee94-46e8-af5a-c5de185db444" />
+
+
+
 ## How to Run the Program Locally
 
 To set up and run the program, follow these steps:
